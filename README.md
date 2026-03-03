@@ -16,7 +16,7 @@ This project demonstrates DOM manipulation, event handling, game logic implement
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript
 
 ## 🧠 What I Learned
 
