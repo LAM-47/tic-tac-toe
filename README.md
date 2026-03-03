@@ -37,7 +37,6 @@ tic-tac-toe/
 
 ## 🌐 Live Demo
 
-(Add your GitHub Pages link here)
-
+https://lam-47.github.io/tic-tac-toe/
 
 Feel free to fork, improve, and experiment with the game!
